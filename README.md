@@ -348,7 +348,7 @@ Here’s a simplified workflow to follow:
    Use code to start, stop, or modify Particle Systems at runtime.  
    Example stub:
 
-   ```csharp
+```csharp
    using UnityEngine;
 
    public class ParticleController : MonoBehaviour
@@ -367,6 +367,7 @@ Here’s a simplified workflow to follow:
        }
    }
 ```
+
 ---
    
 ## 📌 Getting Started: Particle Systems
