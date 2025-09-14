@@ -1,8 +1,8 @@
-# Unity Design - Week 02
+# Unity Design - Week 03
 
 ## Agenda
 
-1. [GameObjects & Components](#GameObjects-Components)  
+1. [Video Player](#Video-Player)  
 2. [Unity C# Basics](#Unity-C#-Basics)  
 3. [Arithmetic Operators & Order of Operations](#Arithmetic-Operators-Order-of-Operations)  
 4. [C# - Beginner Unity Scripting](#Beginner-Unity-Scripting)  
