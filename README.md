@@ -2,12 +2,7 @@
 
 ## Agenda
 1. [UI Canvas and UI Components](#UI-Canvas-and-UI-Components)
-2. [Video Player](#Unity-Video-Player)  
-3. [Audio Basics](#Unity-Audio-Basics)  
-4. [Particle System](#Unity-Particle-System)  
-5. [Lighting System](#Unity-Lighting)  
-6. [Tweening with DOTween](#DO-Tween)  
-7. [Class Assignment - Week #03](#Create-with-Code)  
+2. [Class Assignment - Week #03](#Create-with-Code)  
 
 ---
 
